@@ -1,6 +1,6 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include Applied Microeconomics, Industrial Organization, and Experimental and Behavioral Economics.
+
 education:
   courses:
   - course: Ph.D. in Resource Economics
@@ -47,6 +47,12 @@ superuser: true
 title: Ming Ge
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD Candidate in Resource Economics at the University of Massachusetts Amherst. I am also a Research Enhancement and Leadership (REAL) Fellow at UMass Amherst. I will be on the job market in Fall 2022.
+
+My primary research field is empirical Industrial Organization with a focus on markets for professional services and wholesale electricity markets. My recent research is at the intersection of IO and Experimental Economics, examining the role of reputation on strategic seller behaviors and market efficiency in credence goods markets, such as healthcare services, where sellers are relied on providing both diagnoses and services.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}Job Market Paper{{< /staticref >}}.
+
