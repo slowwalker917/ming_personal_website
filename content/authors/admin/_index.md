@@ -41,7 +41,7 @@ social:
   link: https://twitter.com/Ming99451993
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/slowwalker917
 superuser: true
 title: Ming Ge
 ---
