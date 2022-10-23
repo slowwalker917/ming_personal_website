@@ -10,12 +10,6 @@ main:
   - name: Research
     url: '#publications'
     weight: 20
-  - name: Skills
-    url: '#skills'
-    weight: 30
-  - name: Work Experience
-    url: '#experience'
-    weight: 40
   - name: Contact
     url: '#contact'
     weight: 70
