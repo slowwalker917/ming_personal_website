@@ -1,14 +1,8 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "Asymmetric information between physicians and patients often leads to rampant overtreatment and low market efficiency. A standard reputation system falls short of being effective given the credence good nature of this market: Patients cannot tell whether a costly major treatment is necessary for their recovery even after the service is completed. This type of information asymmetry creates substantial incentives for physicians to overtreat. I propose a novel solution to this problem by combining two important market mechanisms: patient search and a physician reputation system. The key insight is that physician dishonesty detected through patient search facilitates meaningful reputation-building in repeated interactions. Search cost acts as a moderating factor for reputation. High search cost reduces search frequency, which inhibits the effect of reputation building. I test these mechanisms in a laboratory experiment and find supporting evidence from this sample. The results highlight that accessibility to patient search may improve physician ethical behavior and contribute to more equitable access to healthcare."
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2022-04-07T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -20,7 +14,7 @@ links:
   url: http://example.org
 projects:
 - internal-project
-publication: ""
+publication: "JMP"
 publication_short: ""
 publication_types:
 - "3"
@@ -30,15 +24,15 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: An example preprint / working paper
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
-url_dataset: '#'
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: '#'
-url_project: ""
-url_slides: ""
-url_source: '#'
-url_video: '#'
+title: "It Takes Two Hands to Clap: The Effects of Reputation and Search in Healthcare Markets."
+url_code:
+url_dataset: 
+url_pdf: 
+url_poster: 
+url_project: 
+url_slides: 
+url_source: 
+url_video: 
 ---
 
 {{% callout note %}}

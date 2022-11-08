@@ -20,19 +20,23 @@ feature:
     icon: "Stata"
     icon_pack: "custom"
     name: Stata
-  - description: 70%
+  - icon: "ztree"
+    icon_pack: "custom"
+    name: "z-Tree"
+    description: "90%"
+  - description: 80%
     icon: r-project
     icon_pack: fab
     name: R
+  - icon: "latex"
+    icon_pack: "custom"
+    name: "Latex"
+    description: "80%"
   - icon: "mathworks"
     icon_pack: "custom"
     name: "Matlab"
     description: "70%"
-  - icon: "latex"
-    icon_pack: "custom"
-    name: "Latex"
-    description: "70%"
-  - description: 60%
+  - description: 70%
     icon: python
     icon_pack: fab
     name: Python
