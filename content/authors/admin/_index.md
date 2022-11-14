@@ -17,7 +17,7 @@ first_name: Ming
 highlight_name: true
 interests:
 - Applied Microeconomics
-- Empirical Industrial Organization
+- Industrial Organization
 - Experimental and Behavioral Economics
 
 last_name: Ge
