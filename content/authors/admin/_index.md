@@ -54,7 +54,7 @@ My Job Market Paper applies laboratory experiments to examine the role of reputa
 I have participated and/or presented in multiple selective summer school programs and academic conferences, including IFREE Graduate Student Workshop in Experimental Economics 2019, Economic Science Association World Conference 2022, New England Experimental Economics Workshop 2022. I have successfully secured multiple internal grants to fund my dissertation research. I am also a Research Enhancement and Leadership (REAL) Fellow at UMass Amherst. 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}Job Market Paper{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/JMP.pdf" "newtab" >}}Job Market Paper{{< /staticref >}}.
 

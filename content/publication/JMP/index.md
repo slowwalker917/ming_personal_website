@@ -13,7 +13,7 @@ links:
 
 projects:
 - internal-project
-publication: "JMP (Available upon Request)"
+publication: "JMP"
 publication_short: ""
 publication_types:
 - "3"
