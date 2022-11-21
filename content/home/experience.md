@@ -22,11 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Sole Instructor
+    company: University of Massachusetts - Amherst
+    company_url: 'https://www.umass.edu/uww/'
+    company_logo:
+    location: Amherst, MA
+    date_start: '2022-05-19'
+    date_end: '2022-07-03'
+    description: |2-
+       
+        Taught Introductory Statistics Course to undergraduate students from different backgrounds (received extraordinary student evaluations).
+
   - title: Summer Intern
     company: The Department of Financial Institution, China Guangfa Bank
     company_url: 'http://www.cgbchina.com.cn/Site/Home/CN'
     company_logo:
-    location: Shanghai
+    location: Shanghai, China
     date_start: '2014-05-01'
     date_end: '2014-07-01'
     description: |2-

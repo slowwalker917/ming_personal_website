@@ -3,7 +3,7 @@ bio: My research interests include Applied Microeconomics, Industrial Organizati
 
 education:
   courses:
-  - course: Ph.D. in Resource Economics
+  - course: Ph.D. in Resource Economics (STEM)
     institution: University of Massachusetts Amherst
     year: 2023
   - course: Graduate Certificate in Statistical and Computational Data Science
