@@ -51,7 +51,7 @@ I am a PhD candidate in the Department of Resource Economics at the University o
 
 My Job Market Paper applies laboratory experiments to examine the role of reputation on buyer and seller behaviors and market efficiency for markets with asymmetric information. The second chapter of my dissertation compares the effectiveness of various reputation mechanisms in terms of reducing seller overtreatment. My third chapter, joint with Xiaolin Zhou, focuses on the electricity wholesale market in New England. In this study, we empirically investigate the causal impact of temporary baseload supply shortage due to nuclear power plant refueling on the exercise of market power. 
 
-I have participated and/or presented in multiple selective summer school programs and academic conferences, including IFREE Graduate Student Workshop in Experimental Economics 2019, Economic Science Association World Conference 2022, New England Experimental Economics Workshop 2022. I have successfully secured multiple grants to fund my dissertation research. I am also a Research Enhancement and Leadership (REAL) Fellow at UMass Amherst. 
+I have participated and/or presented in multiple selective summer school programs and academic conferences, including IFREE Graduate Student Workshop in Experimental Economics, Economic Science Association World Conference, and New England Experimental Economics Workshop. I have successfully secured multiple grants to fund my dissertation research. I am also a Research Enhancement and Leadership Fellow at UMass Amherst. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
