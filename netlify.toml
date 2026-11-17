@@ -1,17 +1,6 @@
 [build]
-command = 'hugo'
-publish = 'public'
+  command = "unzip -q -o website-source.zip -d website-source && node website-source/scripts/check.mjs"
+  publish = "website-source/dist"
+
 [build.environment]
-HUGO_VERSION = '0.101.0'
-
-
-[context]
-[context.branch-deploy]
-command = 'hugo -F -b $DEPLOY_PRIME_URL'
-
-[context.deploy-preview]
-command = 'hugo -F -b $DEPLOY_PRIME_URL'
-
-[context.production]
-[context.production.environment]
-HUGO_ENV = 'production'
+  NODE_VERSION = "22"
